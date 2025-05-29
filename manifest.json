@@ -1,0 +1,32 @@
+
+{
+  "short_name": "استعداد ورزشی",
+  "name": "استعداد ورزشی یاب",
+  "description": "برنامه شناسایی استعدادهای ورزشی از طریق جمع آوری معیارهای ورزشی و سلامتی.",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/pwa192teal/192/192",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "https://picsum.photos/seed/pwa512teal/512/512",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://picsum.photos/seed/pwa512any/512/512", 
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#14B8A6",
+  "background_color": "#FFFFFF",
+  "lang": "fa",
+  "dir": "rtl"
+}
