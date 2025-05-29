@@ -22,10 +22,37 @@
       "purpose": "maskable"
     }
   ],
+  "id": "/?source=pwa",
   "start_url": ".",
+  "scope": "/",
   "display": "standalone",
+  "orientation": "portrait-primary",
   "theme_color": "#14B8A6",
   "background_color": "#FFFFFF",
   "lang": "fa",
-  "dir": "rtl"
+  "dir": "rtl",
+  "categories": ["health", "sports", "fitness", "education"],
+  "screenshots": [
+    {
+      "src": "/assets/screenshots/screenshot1.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "صفحه خوش آمدگویی و فرم استعداد یاب"
+    },
+    {
+      "src": "/assets/screenshots/screenshot2.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "نمونه سوالات استعداد یاب"
+    }
+  ],
+  "launch_handler": {
+    "client_mode": ["navigate-existing", "auto"]
+  },
+  "prefer_related_applications": false,
+  "related_applications": [],
+  "iarc_rating_id": "YOUR_IARC_ID_PLACEHOLDER",
+  "scope_extensions": []
 }

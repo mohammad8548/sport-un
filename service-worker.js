@@ -9,7 +9,10 @@ const urlsToCache = [
   // '/manifest.json', // Already requested by browser
   // Add new PWA icon paths
   '/assets/icons/icon-192x192.png',
-  '/assets/icons/icon-512x512.png'
+  '/assets/icons/icon-512x512.png',
+  // Add placeholder screenshot paths
+  '/assets/screenshots/screenshot1.png',
+  '/assets/screenshots/screenshot2.png'
 ];
 
 self.addEventListener('install', event => {
