@@ -4,19 +4,19 @@
   "description": "برنامه شناسایی استعدادهای ورزشی از طریق جمع آوری معیارهای ورزشی و سلامتی.",
   "icons": [
     {
-      "src": "/assets/icons/icon-192x192.png",
+      "src": "./icon.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "any"
     },
     {
-      "src": "/assets/icons/icon-512x512.png",
+      "src": "./icon.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any"
     },
     {
-      "src": "/assets/icons/icon-512x512.png",
+      "src": "./icon.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "maskable"
